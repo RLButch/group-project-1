@@ -19,3 +19,7 @@ Price and days occupied are (negatively) weakly correlated
 Price is an important factor when choosing a rental listing
 Price distribution is focused around the $ 300–400 prices with few observations that present higher prices.
 The production of a P value = 1 in the anova analysis suggests this data is not normally distributed and performing an anova analysis violates the assumption that the data is normally distributed.
+
+Brooklyn has the most listings followed by Manhattan, indicating that these are the most sought-after and desirable suburbs for renters, likely due to their central location, amenities, and easy access to transportation.
+the top 10 most popular suburbs for renters in New York City. Renters can use this information to understand which neighborhoods are high in demand and may require competitive bidding, while landlords can tailor their marketing efforts and prices accordingly based on the demand.
+The scatter plot shows the negative correlation between the popularity of certain neighborhoods for rentals and the duration of occupancy. As a neighborhood becomes more popular and has a higher number of rentals, the average number of days rented decreases, indicating a preference for short-term stays.
