@@ -15,7 +15,7 @@ Investigations:
 
 Summaries:
 The most popular room type is entire house/apartment
-Price and days occupied are (negatively) moderately correlated
+Price and days occupied are (negatively) weakly correlated
 Price is an important factor when choosing a rental listing
 Price distribution is focused around the $ 300–400 prices with few observations that present higher prices.
 The production of a P value = 1 in the anova analysis suggests this data is not normally distributed and performing an anova analysis violates the assumption that the data is normally distributed.
