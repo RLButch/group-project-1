@@ -12,6 +12,7 @@ Investigations:
 *What/how is the price for rentals distributed?
 * What is the average stay (length) by room type in rentals in NY? (summary statistics)
 * Public transport - do the popular suburbs have good access to public transport (subway stations)?
+
 Summaries:
 The most popular room type is entire house/apartment
 Price and days occupied are (negatively) moderately correlated
