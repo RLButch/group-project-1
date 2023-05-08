@@ -16,3 +16,4 @@ Summaries:
 The most popular room type is entire house/apartment
 Price and days occupied are (negatively) moderately correlated
 Price is an important factor when choosing a rental listing
+Price distribution is focused around the $ 300–400 prices with few observations that present higher prices.
